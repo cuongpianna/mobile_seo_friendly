@@ -1,0 +1,458 @@
+03/27/2019 02:51:29 PM - TestStatus - INFO - ### VERIFICATION SUCCESSFUL :: + Kiểm tra domain trang : http://vneconomy.vn/ :: PASS
+03/27/2019 02:51:29 PM - TestStatus - INFO - Kiểm tra domain ### TEST SUCCESSFUL
+03/27/2019 02:51:33 PM - SeleniumDriver - INFO - Element Found with locator: myurland locator_type: id
+03/27/2019 02:51:33 PM - SeleniumDriver - INFO - Element Found with locator: checkButtonand locator_type: id
+03/27/2019 02:51:33 PM - SeleniumDriver - INFO - Clicked on element with locator:  locatorType: id
+03/27/2019 02:51:40 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 02:51:43 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:51:48 PM - SeleniumDriver - INFO - Element Found with locator: mobileResand locator_type: classname
+03/27/2019 02:51:51 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:51:56 PM - SeleniumDriver - INFO - Element Found with locator: //*[@id="results"]/div/table/tbody/tr[2]/td[2]and locator_type: xpath
+03/27/2019 02:51:56 PM - SeleniumDriver - DEBUG - Before finding text
+03/27/2019 02:51:56 PM - SeleniumDriver - DEBUG - After finding element, size is: 38
+03/27/2019 02:51:56 PM - SeleniumDriver - INFO - Getting text on element :: 
+03/27/2019 02:51:56 PM - SeleniumDriver - INFO - The text is :: 'Awesome! This page is mobile-friendly!'
+03/27/2019 02:51:58 PM - TestStatus - INFO - ### VERIFICATION SUCCESSFUL :: + Kiểm tra domain trang : http://vneconomy.vn/thoi-su.htm :: PASS
+03/27/2019 02:51:58 PM - TestStatus - INFO - Kiểm tra domain ### TEST SUCCESSFUL
+03/27/2019 02:52:02 PM - SeleniumDriver - INFO - Element Found with locator: myurland locator_type: id
+03/27/2019 02:52:02 PM - SeleniumDriver - INFO - Element Found with locator: checkButtonand locator_type: id
+03/27/2019 02:52:02 PM - SeleniumDriver - INFO - Clicked on element with locator:  locatorType: id
+03/27/2019 02:52:09 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 02:52:12 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:52:21 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 02:52:24 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:52:32 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 02:52:35 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:52:40 PM - SeleniumDriver - INFO - Element Found with locator: mobileResand locator_type: classname
+03/27/2019 02:52:43 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:52:48 PM - SeleniumDriver - INFO - Element Found with locator: //*[@id="results"]/div/table/tbody/tr[2]/td[2]and locator_type: xpath
+03/27/2019 02:52:48 PM - SeleniumDriver - DEBUG - Before finding text
+03/27/2019 02:52:48 PM - SeleniumDriver - DEBUG - After finding element, size is: 38
+03/27/2019 02:52:48 PM - SeleniumDriver - INFO - Getting text on element :: 
+03/27/2019 02:52:48 PM - SeleniumDriver - INFO - The text is :: 'Awesome! This page is mobile-friendly!'
+03/27/2019 02:52:49 PM - TestStatus - INFO - ### VERIFICATION SUCCESSFUL :: + Kiểm tra domain trang : http://vneconomy.vn/nam-cau-hoi-phac-thao-mo-hinh-tang-truong-kinh-te-2021-2030-20190320145127379.htm :: PASS
+03/27/2019 02:52:49 PM - TestStatus - INFO - Kiểm tra domain ### TEST SUCCESSFUL
+03/27/2019 02:52:54 PM - SeleniumDriver - INFO - Element Found with locator: myurland locator_type: id
+03/27/2019 02:52:54 PM - SeleniumDriver - INFO - Element Found with locator: checkButtonand locator_type: id
+03/27/2019 02:52:54 PM - SeleniumDriver - INFO - Clicked on element with locator:  locatorType: id
+03/27/2019 02:53:01 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 02:53:04 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:53:12 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 02:53:15 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:53:23 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 02:53:26 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:53:34 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 02:53:37 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:53:45 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 02:53:48 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:53:53 PM - SeleniumDriver - INFO - Element Found with locator: mobileResand locator_type: classname
+03/27/2019 02:53:56 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:54:01 PM - SeleniumDriver - INFO - Element Found with locator: //*[@id="results"]/div/table/tbody/tr[2]/td[2]and locator_type: xpath
+03/27/2019 02:54:01 PM - SeleniumDriver - DEBUG - Before finding text
+03/27/2019 02:54:01 PM - SeleniumDriver - DEBUG - After finding element, size is: 38
+03/27/2019 02:54:01 PM - SeleniumDriver - INFO - Getting text on element :: 
+03/27/2019 02:54:01 PM - SeleniumDriver - INFO - The text is :: 'Awesome! This page is mobile-friendly!'
+03/27/2019 02:54:04 PM - TestStatus - INFO - ### VERIFICATION SUCCESSFUL :: + Kiểm tra domain trang : http://toquoc.vn/ :: PASS
+03/27/2019 02:54:04 PM - TestStatus - INFO - Kiểm tra domain ### TEST SUCCESSFUL
+03/27/2019 02:54:08 PM - SeleniumDriver - INFO - Element Found with locator: myurland locator_type: id
+03/27/2019 02:54:08 PM - SeleniumDriver - INFO - Element Found with locator: checkButtonand locator_type: id
+03/27/2019 02:54:08 PM - SeleniumDriver - INFO - Clicked on element with locator:  locatorType: id
+03/27/2019 02:54:15 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 02:54:18 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:54:26 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 02:54:29 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:54:37 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 02:54:40 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:54:48 PM - SeleniumDriver - INFO - Element Found with locator: mobileResand locator_type: classname
+03/27/2019 02:54:51 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:54:56 PM - SeleniumDriver - INFO - Element Found with locator: //*[@id="results"]/div/table/tbody/tr[2]/td[2]and locator_type: xpath
+03/27/2019 02:54:56 PM - SeleniumDriver - DEBUG - Before finding text
+03/27/2019 02:54:56 PM - SeleniumDriver - DEBUG - After finding element, size is: 38
+03/27/2019 02:54:56 PM - SeleniumDriver - INFO - Getting text on element :: 
+03/27/2019 02:54:56 PM - SeleniumDriver - INFO - The text is :: 'Awesome! This page is mobile-friendly!'
+03/27/2019 02:55:00 PM - TestStatus - INFO - ### VERIFICATION SUCCESSFUL :: + Kiểm tra domain trang : http://toquoc.vn/thoi-su.htm :: PASS
+03/27/2019 02:55:00 PM - TestStatus - INFO - Kiểm tra domain ### TEST SUCCESSFUL
+03/27/2019 02:55:04 PM - SeleniumDriver - INFO - Element Found with locator: myurland locator_type: id
+03/27/2019 02:55:04 PM - SeleniumDriver - INFO - Element Found with locator: checkButtonand locator_type: id
+03/27/2019 02:55:04 PM - SeleniumDriver - INFO - Clicked on element with locator:  locatorType: id
+03/27/2019 02:55:11 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 02:55:14 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:55:22 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 02:55:25 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:55:34 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 02:55:37 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:55:45 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 02:55:48 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:55:56 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 02:55:59 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:56:04 PM - SeleniumDriver - INFO - Element Found with locator: mobileResand locator_type: classname
+03/27/2019 02:56:07 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:56:12 PM - SeleniumDriver - INFO - Element Found with locator: //*[@id="results"]/div/table/tbody/tr[2]/td[2]and locator_type: xpath
+03/27/2019 02:56:12 PM - SeleniumDriver - DEBUG - Before finding text
+03/27/2019 02:56:12 PM - SeleniumDriver - DEBUG - After finding element, size is: 38
+03/27/2019 02:56:12 PM - SeleniumDriver - INFO - Getting text on element :: 
+03/27/2019 02:56:12 PM - SeleniumDriver - INFO - The text is :: 'Awesome! This page is mobile-friendly!'
+03/27/2019 02:56:14 PM - TestStatus - INFO - ### VERIFICATION SUCCESSFUL :: + Kiểm tra domain trang : http://toquoc.vn/chu-tich-lien-doan-o-to-quoc-te-to-chuc-giai-dua-xe-cong-thuc-1-la-co-hoi-de-viet-nam-phat-trien-du-lich-dam-bao-an-toan-giao-thong-20190320103605359.htm :: PASS
+03/27/2019 02:56:14 PM - TestStatus - INFO - Kiểm tra domain ### TEST SUCCESSFUL
+03/27/2019 02:56:18 PM - SeleniumDriver - INFO - Element Found with locator: myurland locator_type: id
+03/27/2019 02:56:18 PM - SeleniumDriver - INFO - Element Found with locator: checkButtonand locator_type: id
+03/27/2019 02:56:19 PM - SeleniumDriver - INFO - Clicked on element with locator:  locatorType: id
+03/27/2019 02:56:26 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 02:56:29 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:56:37 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 02:56:40 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:56:48 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 02:56:51 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:56:59 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 02:57:02 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:57:07 PM - SeleniumDriver - INFO - Element Found with locator: mobileResand locator_type: classname
+03/27/2019 02:57:10 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:57:15 PM - SeleniumDriver - INFO - Element Found with locator: //*[@id="results"]/div/table/tbody/tr[2]/td[2]and locator_type: xpath
+03/27/2019 02:57:15 PM - SeleniumDriver - DEBUG - Before finding text
+03/27/2019 02:57:15 PM - SeleniumDriver - DEBUG - After finding element, size is: 38
+03/27/2019 02:57:15 PM - SeleniumDriver - INFO - Getting text on element :: 
+03/27/2019 02:57:15 PM - SeleniumDriver - INFO - The text is :: 'Awesome! This page is mobile-friendly!'
+03/27/2019 02:57:20 PM - TestStatus - INFO - ### VERIFICATION SUCCESSFUL :: + Kiểm tra domain trang : https://vietnammoi.vn/ :: PASS
+03/27/2019 02:57:20 PM - TestStatus - INFO - Kiểm tra domain ### TEST SUCCESSFUL
+03/27/2019 02:57:24 PM - SeleniumDriver - INFO - Element Found with locator: myurland locator_type: id
+03/27/2019 02:57:24 PM - SeleniumDriver - INFO - Element Found with locator: checkButtonand locator_type: id
+03/27/2019 02:57:24 PM - SeleniumDriver - INFO - Clicked on element with locator:  locatorType: id
+03/27/2019 02:57:31 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 02:57:34 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:57:40 PM - SeleniumDriver - INFO - Element Found with locator: mobileResand locator_type: classname
+03/27/2019 02:57:43 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:57:48 PM - SeleniumDriver - INFO - Element Found with locator: //*[@id="results"]/div/table/tbody/tr[2]/td[2]and locator_type: xpath
+03/27/2019 02:57:48 PM - SeleniumDriver - DEBUG - Before finding text
+03/27/2019 02:57:48 PM - SeleniumDriver - DEBUG - After finding element, size is: 38
+03/27/2019 02:57:48 PM - SeleniumDriver - INFO - Getting text on element :: 
+03/27/2019 02:57:48 PM - SeleniumDriver - INFO - The text is :: 'Awesome! This page is mobile-friendly!'
+03/27/2019 02:57:51 PM - TestStatus - INFO - ### VERIFICATION SUCCESSFUL :: + Kiểm tra domain trang : https://vietnammoi.vn/thoi-su.htm :: PASS
+03/27/2019 02:57:51 PM - TestStatus - INFO - Kiểm tra domain ### TEST SUCCESSFUL
+03/27/2019 02:57:55 PM - SeleniumDriver - INFO - Element Found with locator: myurland locator_type: id
+03/27/2019 02:57:55 PM - SeleniumDriver - INFO - Element Found with locator: checkButtonand locator_type: id
+03/27/2019 02:57:55 PM - SeleniumDriver - INFO - Clicked on element with locator:  locatorType: id
+03/27/2019 02:58:02 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 02:58:05 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:58:10 PM - SeleniumDriver - INFO - Element Found with locator: mobileResand locator_type: classname
+03/27/2019 02:58:13 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:58:18 PM - SeleniumDriver - INFO - Element Found with locator: //*[@id="results"]/div/table/tbody/tr[2]/td[2]and locator_type: xpath
+03/27/2019 02:58:18 PM - SeleniumDriver - DEBUG - Before finding text
+03/27/2019 02:58:18 PM - SeleniumDriver - DEBUG - After finding element, size is: 38
+03/27/2019 02:58:18 PM - SeleniumDriver - INFO - Getting text on element :: 
+03/27/2019 02:58:18 PM - SeleniumDriver - INFO - The text is :: 'Awesome! This page is mobile-friendly!'
+03/27/2019 02:58:22 PM - TestStatus - INFO - ### VERIFICATION SUCCESSFUL :: + Kiểm tra domain trang : https://vietnammoi.vn/neu-uong-tra-ca-phe-cach-nay-nguy-co-ung-thu-tang-gap-doi-20190322105119216.htm :: PASS
+03/27/2019 02:58:22 PM - TestStatus - INFO - Kiểm tra domain ### TEST SUCCESSFUL
+03/27/2019 02:58:26 PM - SeleniumDriver - INFO - Element Found with locator: myurland locator_type: id
+03/27/2019 02:58:26 PM - SeleniumDriver - INFO - Element Found with locator: checkButtonand locator_type: id
+03/27/2019 02:58:26 PM - SeleniumDriver - INFO - Clicked on element with locator:  locatorType: id
+03/27/2019 02:58:33 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 02:58:36 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:58:43 PM - SeleniumDriver - INFO - Element Found with locator: mobileResand locator_type: classname
+03/27/2019 02:58:46 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:58:51 PM - SeleniumDriver - INFO - Element Found with locator: //*[@id="results"]/div/table/tbody/tr[2]/td[2]and locator_type: xpath
+03/27/2019 02:58:51 PM - SeleniumDriver - DEBUG - Before finding text
+03/27/2019 02:58:51 PM - SeleniumDriver - DEBUG - After finding element, size is: 38
+03/27/2019 02:58:51 PM - SeleniumDriver - INFO - Getting text on element :: 
+03/27/2019 02:58:51 PM - SeleniumDriver - INFO - The text is :: 'Awesome! This page is mobile-friendly!'
+03/27/2019 02:58:54 PM - TestStatus - INFO - ### VERIFICATION SUCCESSFUL :: + Kiểm tra domain trang : https://vietnambiz.vn/ :: PASS
+03/27/2019 02:58:54 PM - TestStatus - INFO - Kiểm tra domain ### TEST SUCCESSFUL
+03/27/2019 02:58:58 PM - SeleniumDriver - INFO - Element Found with locator: myurland locator_type: id
+03/27/2019 02:58:58 PM - SeleniumDriver - INFO - Element Found with locator: checkButtonand locator_type: id
+03/27/2019 02:58:58 PM - SeleniumDriver - INFO - Clicked on element with locator:  locatorType: id
+03/27/2019 02:59:05 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 02:59:08 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:59:16 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 02:59:19 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:59:27 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 02:59:30 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:59:36 PM - SeleniumDriver - INFO - Element Found with locator: mobileResand locator_type: classname
+03/27/2019 02:59:39 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 02:59:44 PM - SeleniumDriver - INFO - Element Found with locator: //*[@id="results"]/div/table/tbody/tr[2]/td[2]and locator_type: xpath
+03/27/2019 02:59:44 PM - SeleniumDriver - DEBUG - Before finding text
+03/27/2019 02:59:44 PM - SeleniumDriver - DEBUG - After finding element, size is: 40
+03/27/2019 02:59:44 PM - SeleniumDriver - INFO - Getting text on element :: 
+03/27/2019 02:59:44 PM - SeleniumDriver - INFO - The text is :: 'Oh No! This page is not mobile-friendly.'
+03/27/2019 02:59:44 PM - SeleniumDriver - INFO - Screenshot save to directory: C:\Users\Admin\Desktop\lam\tool_quet_domain\base\screenshots\trang__vietnambiz.vn_thoi-suhtm_khong_than_thien_voi_mobile.1553673584069.png
+03/27/2019 02:59:48 PM - TestStatus - ERROR - ### VERIFICATION FAILED :: + Trang: vietnambiz.vn/thoi-suhtm không thân thiện với mobile
+03/27/2019 02:59:48 PM - TestStatus - ERROR - Kiểm tra domain ### TEST FAILED
+03/27/2019 02:59:52 PM - SeleniumDriver - INFO - Element Found with locator: myurland locator_type: id
+03/27/2019 02:59:52 PM - SeleniumDriver - INFO - Element Found with locator: checkButtonand locator_type: id
+03/27/2019 02:59:52 PM - SeleniumDriver - INFO - Clicked on element with locator:  locatorType: id
+03/27/2019 02:59:59 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 03:00:02 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:00:10 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 03:00:13 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:00:21 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 03:00:24 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:00:32 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 03:00:35 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:00:40 PM - SeleniumDriver - INFO - Element Found with locator: mobileResand locator_type: classname
+03/27/2019 03:00:43 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:00:48 PM - SeleniumDriver - INFO - Element Found with locator: //*[@id="results"]/div/table/tbody/tr[2]/td[2]and locator_type: xpath
+03/27/2019 03:00:48 PM - SeleniumDriver - DEBUG - Before finding text
+03/27/2019 03:00:48 PM - SeleniumDriver - DEBUG - After finding element, size is: 38
+03/27/2019 03:00:48 PM - SeleniumDriver - INFO - Getting text on element :: 
+03/27/2019 03:00:48 PM - SeleniumDriver - INFO - The text is :: 'Awesome! This page is mobile-friendly!'
+03/27/2019 03:00:53 PM - TestStatus - INFO - ### VERIFICATION SUCCESSFUL :: + Kiểm tra domain trang : https://vietnambiz.vn/chinh-thuc-tang-gia-dien-836-tu-hom-nay-20-3-2019032011432987.htm :: PASS
+03/27/2019 03:00:53 PM - TestStatus - INFO - Kiểm tra domain ### TEST SUCCESSFUL
+03/27/2019 03:24:50 PM - SeleniumDriver - INFO - Element Found with locator: myurland locator_type: id
+03/27/2019 03:24:50 PM - SeleniumDriver - INFO - Element Found with locator: checkButtonand locator_type: id
+03/27/2019 03:24:50 PM - SeleniumDriver - INFO - Clicked on element with locator:  locatorType: id
+03/27/2019 03:24:57 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 03:25:00 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:25:08 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 03:25:11 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:25:18 PM - SeleniumDriver - INFO - Element Found with locator: mobileResand locator_type: classname
+03/27/2019 03:25:21 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:25:26 PM - SeleniumDriver - INFO - Element Found with locator: //*[@id="results"]/div/table/tbody/tr[2]/td[2]and locator_type: xpath
+03/27/2019 03:25:26 PM - SeleniumDriver - DEBUG - Before finding text
+03/27/2019 03:25:26 PM - SeleniumDriver - DEBUG - After finding element, size is: 38
+03/27/2019 03:25:26 PM - SeleniumDriver - INFO - Getting text on element :: 
+03/27/2019 03:25:26 PM - SeleniumDriver - INFO - The text is :: 'Awesome! This page is mobile-friendly!'
+03/27/2019 03:25:32 PM - TestStatus - INFO - ### VERIFICATION SUCCESSFUL :: + Kiểm tra domain trang : http://giadinh.net.vn/ :: PASS
+03/27/2019 03:25:32 PM - TestStatus - INFO - Kiểm tra domain ### TEST SUCCESSFUL
+03/27/2019 03:25:36 PM - SeleniumDriver - INFO - Element Found with locator: myurland locator_type: id
+03/27/2019 03:25:36 PM - SeleniumDriver - INFO - Element Found with locator: checkButtonand locator_type: id
+03/27/2019 03:25:36 PM - SeleniumDriver - INFO - Clicked on element with locator:  locatorType: id
+03/27/2019 03:25:43 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 03:25:46 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:25:51 PM - SeleniumDriver - INFO - Element Found with locator: mobileResand locator_type: classname
+03/27/2019 03:25:54 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:25:59 PM - SeleniumDriver - INFO - Element Found with locator: //*[@id="results"]/div/table/tbody/tr[2]/td[2]and locator_type: xpath
+03/27/2019 03:25:59 PM - SeleniumDriver - DEBUG - Before finding text
+03/27/2019 03:25:59 PM - SeleniumDriver - DEBUG - After finding element, size is: 38
+03/27/2019 03:25:59 PM - SeleniumDriver - INFO - Getting text on element :: 
+03/27/2019 03:25:59 PM - SeleniumDriver - INFO - The text is :: 'Awesome! This page is mobile-friendly!'
+03/27/2019 03:26:06 PM - TestStatus - INFO - ### VERIFICATION SUCCESSFUL :: + Kiểm tra domain trang : http://giadinh.net.vn/gia-dinh.htm :: PASS
+03/27/2019 03:26:06 PM - TestStatus - INFO - Kiểm tra domain ### TEST SUCCESSFUL
+03/27/2019 03:26:10 PM - SeleniumDriver - INFO - Element Found with locator: myurland locator_type: id
+03/27/2019 03:26:10 PM - SeleniumDriver - INFO - Element Found with locator: checkButtonand locator_type: id
+03/27/2019 03:26:10 PM - SeleniumDriver - INFO - Clicked on element with locator:  locatorType: id
+03/27/2019 03:26:17 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 03:26:21 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:26:26 PM - SeleniumDriver - INFO - Element Found with locator: mobileResand locator_type: classname
+03/27/2019 03:26:29 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:26:34 PM - SeleniumDriver - INFO - Element Found with locator: //*[@id="results"]/div/table/tbody/tr[2]/td[2]and locator_type: xpath
+03/27/2019 03:26:34 PM - SeleniumDriver - DEBUG - Before finding text
+03/27/2019 03:26:34 PM - SeleniumDriver - DEBUG - After finding element, size is: 38
+03/27/2019 03:26:34 PM - SeleniumDriver - INFO - Getting text on element :: 
+03/27/2019 03:26:34 PM - SeleniumDriver - INFO - The text is :: 'Awesome! This page is mobile-friendly!'
+03/27/2019 03:26:46 PM - TestStatus - INFO - ### VERIFICATION SUCCESSFUL :: + Kiểm tra domain trang : http://giadinh.net.vn/phap-luat/vu-kien-tac-quyen-vo-ngay-xua-tuan-chau-ha-noi-phai-tra-10-tien-ban-ve-cho-dao-dien-viet-tu-20190320102329201.htm :: PASS
+03/27/2019 03:26:46 PM - TestStatus - INFO - Kiểm tra domain ### TEST SUCCESSFUL
+03/27/2019 03:26:50 PM - SeleniumDriver - INFO - Element Found with locator: myurland locator_type: id
+03/27/2019 03:26:50 PM - SeleniumDriver - INFO - Element Found with locator: checkButtonand locator_type: id
+03/27/2019 03:26:50 PM - SeleniumDriver - INFO - Clicked on element with locator:  locatorType: id
+03/27/2019 03:26:57 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 03:27:00 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:27:05 PM - SeleniumDriver - INFO - Element Found with locator: mobileResand locator_type: classname
+03/27/2019 03:27:08 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:27:13 PM - SeleniumDriver - INFO - Element Found with locator: //*[@id="results"]/div/table/tbody/tr[2]/td[2]and locator_type: xpath
+03/27/2019 03:27:13 PM - SeleniumDriver - DEBUG - Before finding text
+03/27/2019 03:27:13 PM - SeleniumDriver - DEBUG - After finding element, size is: 38
+03/27/2019 03:27:13 PM - SeleniumDriver - INFO - Getting text on element :: 
+03/27/2019 03:27:13 PM - SeleniumDriver - INFO - The text is :: 'Awesome! This page is mobile-friendly!'
+03/27/2019 03:27:20 PM - TestStatus - INFO - ### VERIFICATION SUCCESSFUL :: + Kiểm tra domain trang : http://kenh14.vn/ :: PASS
+03/27/2019 03:27:20 PM - TestStatus - INFO - Kiểm tra domain ### TEST SUCCESSFUL
+03/27/2019 03:27:24 PM - SeleniumDriver - INFO - Element Found with locator: myurland locator_type: id
+03/27/2019 03:27:25 PM - SeleniumDriver - INFO - Element Found with locator: checkButtonand locator_type: id
+03/27/2019 03:27:25 PM - SeleniumDriver - INFO - Clicked on element with locator:  locatorType: id
+03/27/2019 03:27:32 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 03:27:35 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:27:40 PM - SeleniumDriver - INFO - Element Found with locator: mobileResand locator_type: classname
+03/27/2019 03:27:43 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:27:48 PM - SeleniumDriver - INFO - Element Found with locator: //*[@id="results"]/div/table/tbody/tr[2]/td[2]and locator_type: xpath
+03/27/2019 03:27:48 PM - SeleniumDriver - DEBUG - Before finding text
+03/27/2019 03:27:48 PM - SeleniumDriver - DEBUG - After finding element, size is: 38
+03/27/2019 03:27:48 PM - SeleniumDriver - INFO - Getting text on element :: 
+03/27/2019 03:27:48 PM - SeleniumDriver - INFO - The text is :: 'Awesome! This page is mobile-friendly!'
+03/27/2019 03:27:51 PM - TestStatus - INFO - ### VERIFICATION SUCCESSFUL :: + Kiểm tra domain trang : http://kenh14.vn/an-ca-the-gioi.chn :: PASS
+03/27/2019 03:27:51 PM - TestStatus - INFO - Kiểm tra domain ### TEST SUCCESSFUL
+03/27/2019 03:27:55 PM - SeleniumDriver - INFO - Element Found with locator: myurland locator_type: id
+03/27/2019 03:27:56 PM - SeleniumDriver - INFO - Element Found with locator: checkButtonand locator_type: id
+03/27/2019 03:27:56 PM - SeleniumDriver - INFO - Clicked on element with locator:  locatorType: id
+03/27/2019 03:28:03 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 03:28:06 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:28:14 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 03:28:17 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:28:23 PM - SeleniumDriver - INFO - Element Found with locator: mobileResand locator_type: classname
+03/27/2019 03:28:26 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:28:31 PM - SeleniumDriver - INFO - Element Found with locator: //*[@id="results"]/div/table/tbody/tr[2]/td[2]and locator_type: xpath
+03/27/2019 03:28:31 PM - SeleniumDriver - DEBUG - Before finding text
+03/27/2019 03:28:31 PM - SeleniumDriver - DEBUG - After finding element, size is: 38
+03/27/2019 03:28:31 PM - SeleniumDriver - INFO - Getting text on element :: 
+03/27/2019 03:28:31 PM - SeleniumDriver - INFO - The text is :: 'Awesome! This page is mobile-friendly!'
+03/27/2019 03:28:34 PM - TestStatus - INFO - ### VERIFICATION SUCCESSFUL :: + Kiểm tra domain trang : http://kenh14.vn/dien-ma-quen-cam-mic-fan-treu-ariana-grande-nho-mang-day-du-dung-cu-khi-hanh-nghe-chi-oi-20190320145433714.chn :: PASS
+03/27/2019 03:28:34 PM - TestStatus - INFO - Kiểm tra domain ### TEST SUCCESSFUL
+03/27/2019 03:28:38 PM - SeleniumDriver - INFO - Element Found with locator: myurland locator_type: id
+03/27/2019 03:28:38 PM - SeleniumDriver - INFO - Element Found with locator: checkButtonand locator_type: id
+03/27/2019 03:28:38 PM - SeleniumDriver - INFO - Clicked on element with locator:  locatorType: id
+03/27/2019 03:28:45 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 03:28:48 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:28:53 PM - SeleniumDriver - INFO - Element Found with locator: mobileResand locator_type: classname
+03/27/2019 03:28:56 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:29:01 PM - SeleniumDriver - INFO - Element Found with locator: //*[@id="results"]/div/table/tbody/tr[2]/td[2]and locator_type: xpath
+03/27/2019 03:29:01 PM - SeleniumDriver - DEBUG - Before finding text
+03/27/2019 03:29:01 PM - SeleniumDriver - DEBUG - After finding element, size is: 38
+03/27/2019 03:29:01 PM - SeleniumDriver - INFO - Getting text on element :: 
+03/27/2019 03:29:01 PM - SeleniumDriver - INFO - The text is :: 'Awesome! This page is mobile-friendly!'
+03/27/2019 03:29:05 PM - TestStatus - INFO - ### VERIFICATION SUCCESSFUL :: + Kiểm tra domain trang : http://soha.vn/ :: PASS
+03/27/2019 03:29:05 PM - TestStatus - INFO - Kiểm tra domain ### TEST SUCCESSFUL
+03/27/2019 03:29:09 PM - SeleniumDriver - INFO - Element Found with locator: myurland locator_type: id
+03/27/2019 03:29:09 PM - SeleniumDriver - INFO - Element Found with locator: checkButtonand locator_type: id
+03/27/2019 03:29:09 PM - SeleniumDriver - INFO - Clicked on element with locator:  locatorType: id
+03/27/2019 03:29:16 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 03:29:19 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:29:27 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 03:29:30 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:29:35 PM - SeleniumDriver - INFO - Element Found with locator: mobileResand locator_type: classname
+03/27/2019 03:29:38 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:29:43 PM - SeleniumDriver - INFO - Element Found with locator: //*[@id="results"]/div/table/tbody/tr[2]/td[2]and locator_type: xpath
+03/27/2019 03:29:43 PM - SeleniumDriver - DEBUG - Before finding text
+03/27/2019 03:29:43 PM - SeleniumDriver - DEBUG - After finding element, size is: 38
+03/27/2019 03:29:43 PM - SeleniumDriver - INFO - Getting text on element :: 
+03/27/2019 03:29:43 PM - SeleniumDriver - INFO - The text is :: 'Awesome! This page is mobile-friendly!'
+03/27/2019 03:29:45 PM - TestStatus - INFO - ### VERIFICATION SUCCESSFUL :: + Kiểm tra domain trang : http://soha.vn/quoc-te.htm :: PASS
+03/27/2019 03:29:45 PM - TestStatus - INFO - Kiểm tra domain ### TEST SUCCESSFUL
+03/27/2019 03:29:49 PM - SeleniumDriver - INFO - Element Found with locator: myurland locator_type: id
+03/27/2019 03:29:49 PM - SeleniumDriver - INFO - Element Found with locator: checkButtonand locator_type: id
+03/27/2019 03:29:49 PM - SeleniumDriver - INFO - Clicked on element with locator:  locatorType: id
+03/27/2019 03:29:56 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 03:29:59 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:30:07 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 03:30:10 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:30:18 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 03:30:21 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:30:26 PM - SeleniumDriver - INFO - Element Found with locator: mobileResand locator_type: classname
+03/27/2019 03:30:29 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:30:34 PM - SeleniumDriver - INFO - Element Found with locator: //*[@id="results"]/div/table/tbody/tr[2]/td[2]and locator_type: xpath
+03/27/2019 03:30:34 PM - SeleniumDriver - DEBUG - Before finding text
+03/27/2019 03:30:34 PM - SeleniumDriver - DEBUG - After finding element, size is: 38
+03/27/2019 03:30:34 PM - SeleniumDriver - INFO - Getting text on element :: 
+03/27/2019 03:30:34 PM - SeleniumDriver - INFO - The text is :: 'Awesome! This page is mobile-friendly!'
+03/27/2019 03:30:37 PM - TestStatus - INFO - ### VERIFICATION SUCCESSFUL :: + Kiểm tra domain trang : http://soha.vn/neu-be-gai-9-tuoi-bi-xam-hai-co-gai-bi-cuong-hon-la-con-cac-ong-ay-20190320102159289.htm :: PASS
+03/27/2019 03:30:37 PM - TestStatus - INFO - Kiểm tra domain ### TEST SUCCESSFUL
+03/27/2019 03:30:41 PM - SeleniumDriver - INFO - Element Found with locator: myurland locator_type: id
+03/27/2019 03:30:42 PM - SeleniumDriver - INFO - Element Found with locator: checkButtonand locator_type: id
+03/27/2019 03:30:42 PM - SeleniumDriver - INFO - Clicked on element with locator:  locatorType: id
+03/27/2019 03:30:49 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 03:30:52 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:30:57 PM - SeleniumDriver - INFO - Element Found with locator: mobileResand locator_type: classname
+03/27/2019 03:31:00 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:31:05 PM - SeleniumDriver - INFO - Element Found with locator: //*[@id="results"]/div/table/tbody/tr[2]/td[2]and locator_type: xpath
+03/27/2019 03:31:05 PM - SeleniumDriver - DEBUG - Before finding text
+03/27/2019 03:31:05 PM - SeleniumDriver - DEBUG - After finding element, size is: 38
+03/27/2019 03:31:05 PM - SeleniumDriver - INFO - Getting text on element :: 
+03/27/2019 03:31:05 PM - SeleniumDriver - INFO - The text is :: 'Awesome! This page is mobile-friendly!'
+03/27/2019 03:31:08 PM - TestStatus - INFO - ### VERIFICATION SUCCESSFUL :: + Kiểm tra domain trang : http://afamily.vn/ :: PASS
+03/27/2019 03:31:08 PM - TestStatus - INFO - Kiểm tra domain ### TEST SUCCESSFUL
+03/27/2019 03:31:12 PM - SeleniumDriver - INFO - Element Found with locator: myurland locator_type: id
+03/27/2019 03:31:12 PM - SeleniumDriver - INFO - Element Found with locator: checkButtonand locator_type: id
+03/27/2019 03:31:13 PM - SeleniumDriver - INFO - Clicked on element with locator:  locatorType: id
+03/27/2019 03:31:20 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 03:31:23 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:31:28 PM - SeleniumDriver - INFO - Element Found with locator: mobileResand locator_type: classname
+03/27/2019 03:31:31 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:31:36 PM - SeleniumDriver - INFO - Element Found with locator: //*[@id="results"]/div/table/tbody/tr[2]/td[2]and locator_type: xpath
+03/27/2019 03:31:36 PM - SeleniumDriver - DEBUG - Before finding text
+03/27/2019 03:31:36 PM - SeleniumDriver - DEBUG - After finding element, size is: 38
+03/27/2019 03:31:36 PM - SeleniumDriver - INFO - Getting text on element :: 
+03/27/2019 03:31:36 PM - SeleniumDriver - INFO - The text is :: 'Awesome! This page is mobile-friendly!'
+03/27/2019 03:31:44 PM - TestStatus - INFO - ### VERIFICATION SUCCESSFUL :: + Kiểm tra domain trang : http://afamily.vn/doi-song.chn :: PASS
+03/27/2019 03:31:44 PM - TestStatus - INFO - Kiểm tra domain ### TEST SUCCESSFUL
+03/27/2019 03:31:48 PM - SeleniumDriver - INFO - Element Found with locator: myurland locator_type: id
+03/27/2019 03:31:48 PM - SeleniumDriver - INFO - Element Found with locator: checkButtonand locator_type: id
+03/27/2019 03:31:48 PM - SeleniumDriver - INFO - Clicked on element with locator:  locatorType: id
+03/27/2019 03:31:55 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 03:31:58 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:32:06 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 03:32:09 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:32:17 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 03:32:21 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:32:29 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 03:32:32 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:32:38 PM - SeleniumDriver - INFO - Element Found with locator: mobileResand locator_type: classname
+03/27/2019 03:32:41 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:32:46 PM - SeleniumDriver - INFO - Element Found with locator: //*[@id="results"]/div/table/tbody/tr[2]/td[2]and locator_type: xpath
+03/27/2019 03:32:46 PM - SeleniumDriver - DEBUG - Before finding text
+03/27/2019 03:32:46 PM - SeleniumDriver - DEBUG - After finding element, size is: 38
+03/27/2019 03:32:46 PM - SeleniumDriver - INFO - Getting text on element :: 
+03/27/2019 03:32:46 PM - SeleniumDriver - INFO - The text is :: 'Awesome! This page is mobile-friendly!'
+03/27/2019 03:32:49 PM - TestStatus - INFO - ### VERIFICATION SUCCESSFUL :: + Kiểm tra domain trang : http://afamily.vn/doi-tu-be-boi-cua-sao-nu-trum-so-trong-vu-an-jang-ja-yeon-vung-trom-chan-goi-voi-trai-tre-kem-17-tuoi-bi-to-thue-sat-thu-giet-tra-thu-20190318150338082.chn :: PASS
+03/27/2019 03:32:49 PM - TestStatus - INFO - Kiểm tra domain ### TEST SUCCESSFUL
+03/27/2019 03:32:53 PM - SeleniumDriver - INFO - Element Found with locator: myurland locator_type: id
+03/27/2019 03:32:53 PM - SeleniumDriver - INFO - Element Found with locator: checkButtonand locator_type: id
+03/27/2019 03:32:53 PM - SeleniumDriver - INFO - Clicked on element with locator:  locatorType: id
+03/27/2019 03:33:00 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 03:33:03 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:33:08 PM - SeleniumDriver - INFO - Element Found with locator: mobileResand locator_type: classname
+03/27/2019 03:33:11 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:33:16 PM - SeleniumDriver - INFO - Element Found with locator: //*[@id="results"]/div/table/tbody/tr[2]/td[2]and locator_type: xpath
+03/27/2019 03:33:16 PM - SeleniumDriver - DEBUG - Before finding text
+03/27/2019 03:33:16 PM - SeleniumDriver - DEBUG - After finding element, size is: 38
+03/27/2019 03:33:16 PM - SeleniumDriver - INFO - Getting text on element :: 
+03/27/2019 03:33:16 PM - SeleniumDriver - INFO - The text is :: 'Awesome! This page is mobile-friendly!'
+03/27/2019 03:33:18 PM - TestStatus - INFO - ### VERIFICATION SUCCESSFUL :: + Kiểm tra domain trang : http://cafef.vn/ :: PASS
+03/27/2019 03:33:18 PM - TestStatus - INFO - Kiểm tra domain ### TEST SUCCESSFUL
+03/27/2019 03:33:22 PM - SeleniumDriver - INFO - Element Found with locator: myurland locator_type: id
+03/27/2019 03:33:22 PM - SeleniumDriver - INFO - Element Found with locator: checkButtonand locator_type: id
+03/27/2019 03:33:22 PM - SeleniumDriver - INFO - Clicked on element with locator:  locatorType: id
+03/27/2019 03:33:29 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 03:33:32 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:33:37 PM - SeleniumDriver - INFO - Element Found with locator: mobileResand locator_type: classname
+03/27/2019 03:33:40 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:33:45 PM - SeleniumDriver - INFO - Element Found with locator: //*[@id="results"]/div/table/tbody/tr[2]/td[2]and locator_type: xpath
+03/27/2019 03:33:45 PM - SeleniumDriver - DEBUG - Before finding text
+03/27/2019 03:33:45 PM - SeleniumDriver - DEBUG - After finding element, size is: 38
+03/27/2019 03:33:45 PM - SeleniumDriver - INFO - Getting text on element :: 
+03/27/2019 03:33:45 PM - SeleniumDriver - INFO - The text is :: 'Awesome! This page is mobile-friendly!'
+03/27/2019 03:33:48 PM - TestStatus - INFO - ### VERIFICATION SUCCESSFUL :: + Kiểm tra domain trang : http://cafef.vn/thoi-su.chn :: PASS
+03/27/2019 03:33:48 PM - TestStatus - INFO - Kiểm tra domain ### TEST SUCCESSFUL
+03/27/2019 03:33:52 PM - SeleniumDriver - INFO - Element Found with locator: myurland locator_type: id
+03/27/2019 03:33:53 PM - SeleniumDriver - INFO - Element Found with locator: checkButtonand locator_type: id
+03/27/2019 03:33:53 PM - SeleniumDriver - INFO - Clicked on element with locator:  locatorType: id
+03/27/2019 03:34:00 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 03:34:03 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:34:11 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 03:34:14 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:34:22 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 03:34:25 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:34:30 PM - SeleniumDriver - INFO - Element Found with locator: mobileResand locator_type: classname
+03/27/2019 03:34:33 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:34:38 PM - SeleniumDriver - INFO - Element Found with locator: //*[@id="results"]/div/table/tbody/tr[2]/td[2]and locator_type: xpath
+03/27/2019 03:34:38 PM - SeleniumDriver - DEBUG - Before finding text
+03/27/2019 03:34:38 PM - SeleniumDriver - DEBUG - After finding element, size is: 38
+03/27/2019 03:34:38 PM - SeleniumDriver - INFO - Getting text on element :: 
+03/27/2019 03:34:38 PM - SeleniumDriver - INFO - The text is :: 'Awesome! This page is mobile-friendly!'
+03/27/2019 03:34:41 PM - TestStatus - INFO - ### VERIFICATION SUCCESSFUL :: + Kiểm tra domain trang : http://cafef.vn/luong-co-phieu-do-ty-phu-pham-nhat-vuong-nam-giu-da-tang-len-10-ty-usd-20190320112101742.chn :: PASS
+03/27/2019 03:34:41 PM - TestStatus - INFO - Kiểm tra domain ### TEST SUCCESSFUL
+03/27/2019 03:34:45 PM - SeleniumDriver - INFO - Element Found with locator: myurland locator_type: id
+03/27/2019 03:34:45 PM - SeleniumDriver - INFO - Element Found with locator: checkButtonand locator_type: id
+03/27/2019 03:34:45 PM - SeleniumDriver - INFO - Clicked on element with locator:  locatorType: id
+03/27/2019 03:34:52 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 03:34:55 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:35:00 PM - SeleniumDriver - INFO - Element Found with locator: mobileResand locator_type: classname
+03/27/2019 03:35:03 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:35:08 PM - SeleniumDriver - INFO - Element Found with locator: //*[@id="results"]/div/table/tbody/tr[2]/td[2]and locator_type: xpath
+03/27/2019 03:35:08 PM - SeleniumDriver - DEBUG - Before finding text
+03/27/2019 03:35:08 PM - SeleniumDriver - DEBUG - After finding element, size is: 38
+03/27/2019 03:35:08 PM - SeleniumDriver - INFO - Getting text on element :: 
+03/27/2019 03:35:08 PM - SeleniumDriver - INFO - The text is :: 'Awesome! This page is mobile-friendly!'
+03/27/2019 03:35:11 PM - TestStatus - INFO - ### VERIFICATION SUCCESSFUL :: + Kiểm tra domain trang : http://cafebiz.vn/ :: PASS
+03/27/2019 03:35:11 PM - TestStatus - INFO - Kiểm tra domain ### TEST SUCCESSFUL
+03/27/2019 03:35:15 PM - SeleniumDriver - INFO - Element Found with locator: myurland locator_type: id
+03/27/2019 03:35:15 PM - SeleniumDriver - INFO - Element Found with locator: checkButtonand locator_type: id
+03/27/2019 03:35:15 PM - SeleniumDriver - INFO - Clicked on element with locator:  locatorType: id
+03/27/2019 03:35:22 PM - SeleniumDriver - INFO - Element not found: mobileResand locator_type: classname
+03/27/2019 03:35:25 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:35:30 PM - SeleniumDriver - INFO - Element Found with locator: mobileResand locator_type: classname
+03/27/2019 03:35:33 PM - SeleniumDriver - INFO - Element not found: //*[@id="results"]/div/divand locator_type: xpath
+03/27/2019 03:35:38 PM - SeleniumDriver - INFO - Element Found with locator: //*[@id="results"]/div/table/tbody/tr[2]/td[2]and locator_type: xpath
+03/27/2019 03:35:38 PM - SeleniumDriver - DEBUG - Before finding text
+03/27/2019 03:35:38 PM - SeleniumDriver - DEBUG - After finding element, size is: 38
+03/27/2019 03:35:38 PM - SeleniumDriver - INFO - Getting text on element :: 
+03/27/2019 03:35:38 PM - SeleniumDriver - INFO - The text is :: 'Awesome! This page is mobile-friendly!'
+03/27/2019 03:35:44 PM - TestStatus - INFO - ### VERIFICATION SUCCESSFUL :: + Kiểm tra domain trang : http://cafebiz.vn/thoi-su.chn :: PASS
+03/27/2019 03:35:44 PM - TestStatus - INFO - Kiểm tra domain ### TEST SUCCESSFUL
+03/27/2019 03:35:48 PM - SeleniumDriver - INFO - Element Found with locator: myurland locator_type: id
+03/27/2019 03:35:49 PM - SeleniumDriver - INFO - Element Found with locator: checkButtonand locator_type: id
+03/27/2019 03:35:49 PM - SeleniumDriver - INFO - Clicked on element with locator:  locatorType: id

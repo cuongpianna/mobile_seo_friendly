@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9016e9f-92e0-457c-b48c-24cd479bfa70" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/testnhe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/browser_factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/browser_factory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/screenshots/Home_ giadinh.net.vn Box tin nóng Tin_ ``Bé 4 tuổi.1552446261489.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/screenshots/Home_ giadinh.net.vn Box tin nóng Tin_ ``Bé 4 tuổi.1552446320961.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/screenshots/Home_ giadinh.net.vn Box tin nóng Tin_ ``Chồng nhi.1552444616567.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/screenshots/Home_ giadinh.net.vn Box tin nóng Tin_ ``HI HỮU_ B.1552447095943.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/screenshots/Home_ giadinh.net.vn Box tin nóng Tin_ ``HI HỮU_ B.1552447113350.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/screenshots/Home_ giadinh.net.vn Box tin nóng Tin_ ``HI HỮU_ B.1552447130206.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/screenshots/Home_ giadinh.net.vn Box tin nóng Tin_ ``HI HỮU_ B.1552447146728.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/screenshots/Home_ giadinh.net.vn Box tin nóng Tin_ ``HI HỮU_ B.1552447163855.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/screenshots/Home_ giadinh.net.vn Box tin nóng Tin_ ``Mỹ phá đư.1552446917367.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/screenshots/Home_ giadinh.net.vn Box tin nóng Tin_ ``Mỹ phá đư.1552446935259.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/screenshots/Home_ giadinh.net.vn Box tin nóng Tin_ ``Mỹ phá đư.1552446953796.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/screenshots/Home_ giadinh.net.vn Box tin nóng Tin_ ``Mỹ phá đư.1552446970124.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/screenshots/Home_ giadinh.net.vn Box tin nóng Tin_ ``Mỹ phá đư.1552446986842.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/screenshots/Home_ giadinh.net.vn Box tin nóng Tin_ ``Mỹ phá đư.1552447003908.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/screenshots/Home_ giadinh.net.vn Box tin nóng Tin_ ``Mỹ phá đư.1552447021609.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/screenshots/Home_ giadinh.net.vn Box tin nóng Tin_ ``Mỹ phá đư.1552447038934.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/screenshots/Home_ giadinh.net.vn Box tin nóng Tin_ ``Mỹ phá đư.1552447056003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/selenium_driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/selenium_driver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/get_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/mssql.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/boxes/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/boxes/box_doc_nhieu_nhat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/boxes/box_dong_su_kien.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/boxes/box_dung_bo_lo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/boxes/box_tin_noi_bat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/boxes/box_tin_nong.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/boxes/box_video.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/boxes/boxes_cha_con/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/boxes/boxes_cha_con/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/boxes/boxes_cha_con/box2_gia_dinh.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/boxes/boxes_cha_con/box2_tam_su.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/boxes/boxes_cha_con/box3_phong_the.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/boxes/boxes_cha_con/box3_song_khoe.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/boxes/boxes_cha_con/box4_giai_tri.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/boxes/boxes_cha_con/box4_xem_doc_nghe.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/boxes/boxes_cha_con/box5_phapluat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/boxes/boxes_cha_con/box5_tranh_cai.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/boxes/boxes_cha_con/box6_bac_si_cua_ban.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/boxes/boxes_cha_con/box6_giao_duc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/boxes/boxes_cha_con/box7_thi_truong.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/boxes/boxes_cha_con/box7_vong_tay_nhan_ai.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/boxes/boxes_cha_con/box8_bon_phuong.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/boxes/boxes_cha_con/box8_hi_tech.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/boxes/boxes_cha_con/box_an.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/boxes/boxes_cha_con/box_dep.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/boxes/boxes_cha_con/box_o.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/boxes/boxes_chuyen_muc_con/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/boxes/boxes_chuyen_muc_con/box_danso.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/boxes/boxes_chuyen_muc_con/box_kinangsong.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/boxes/boxes_chuyen_muc_con/box_yte.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/cates/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/cates/trang_chuyen_muc/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/cates/trang_chuyen_muc/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/cates/trang_chuyen_muc/trang_bon_phuong.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/cates/trang_chuyen_muc/trang_gia_dinh.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/cates/trang_chuyen_muc/trang_giai_tri.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/cates/trang_chuyen_muc/trang_phap_luat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/cates/trang_chuyen_muc/trang_song_khoe.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/cates/trang_chuyen_muc/trang_thi_truong.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/cates/trang_chuyen_muc/trang_vong_tay_nhan_ai.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/cates/trang_detail_tin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/cates/trang_moi_nhat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/cates/trang_video.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/cates/trang_video_detail.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/home/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/home/back_to_top.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/home/banner.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/home/banner_phai.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/home/dong_su_kien_bar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/home/home.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/home/navbar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/home/searchbar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Report/testnhe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/boxes/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/boxes/box_tinnoibat_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/boxes/boxdocnhieunhat_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/boxes/boxdongsukien_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/boxes/boxdungbolo_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/boxes/boxes_cha_con_test/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/boxes/boxes_cha_con_test/box2_giadinh_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/boxes/boxes_cha_con_test/box2_tamsu_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/boxes/boxes_cha_con_test/box3_phongthe_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/boxes/boxes_cha_con_test/box3_songkhoe_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/boxes/boxes_cha_con_test/box4_giaitri_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/boxes/boxes_cha_con_test/box4_xemdocnghe_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/boxes/boxes_cha_con_test/box5_phapluat_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/boxes/boxes_cha_con_test/box5_tranhcai_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/boxes/boxes_cha_con_test/box6_bacsicuaban_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/boxes/boxes_cha_con_test/box6_giaoduc_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/boxes/boxes_cha_con_test/box7_thitruong_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/boxes/boxes_cha_con_test/box7_vongtaynhanai_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/boxes/boxes_cha_con_test/box8_bonphuong_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/boxes/boxes_cha_con_test/box8_hitech_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/boxes/boxes_cha_con_test/box_an_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/boxes/boxes_cha_con_test/box_dep_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/boxes/boxes_cha_con_test/box_o_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/boxes/boxes_chuyen_muc_con/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/boxes/boxes_chuyen_muc_con/boxdanso_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/boxes/boxes_chuyen_muc_con/boxkinangsong_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/boxes/boxes_chuyen_muc_con/boxyte_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/boxes/boxtinnong_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/boxes/boxvideo_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/cates/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/cates/trang_detail_tin_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/cates/trangchuyenmuc_test/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/cates/trangchuyenmuc_test/trangbonphuong_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/cates/trangchuyenmuc_test/tranggiadinh_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/cates/trangchuyenmuc_test/tranggiaitri_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/cates/trangchuyenmuc_test/trangphapluat_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/cates/trangchuyenmuc_test/trangsongkhoe_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/cates/trangchuyenmuc_test/trangthitruong_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/cates/trangchuyenmuc_test/trangvongtaynhanai_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/cates/trangchuyenmuc_test/trangxahoi_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/cates/trangmoinhat_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/cates/trangvideo_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/cates/trangvideodetail_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/config_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/config_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/home/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/home/backtotop_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/home/banner_phai_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/home/banner_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/home/dskbar_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/home/home_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/home/navbar_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/home/searchbar_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reports/example/Test_tests.home.home_test.HomeTests_2019-01-30_10-13-23.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reports/example/Test_tests.home.home_test.HomeTests_2019-01-30_10-16-07.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reports/example/Test_tests.home.home_test.HomeTests_2019-01-30_10-21-53.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reports/example/Test_tests.home.home_test.HomeTests_2019-01-30_10-41-41.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reports/example/Test_tests.home.home_test.HomeTests_2019-01-30_10-50-15.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reports/example/Test_tests.home.home_test.HomeTests_2019-01-30_14-00-45.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reports/example/Test_tests.home.navbar_test.NavBarTest_2019-01-30_10-13-23.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reports/example/Test_tests.home.navbar_test.NavBarTest_2019-01-30_14-00-45.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reports/example/Test_tests.home.searchbar_test.SearchBarTest_2019-01-30_10-21-53.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reports/example/Test_tests.home.searchbar_test.SearchBarTest_2019-01-30_10-41-41.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reports/example/Test_tests.home.searchbar_test.SearchBarTest_2019-01-30_10-50-15.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reports/output_folder_name/2019-01-30-10-00-37.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reports/output_folder_name/2019-01-30-10-00-38.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reports/output_folder_name/2019-01-30-10-04-34.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reports/output_folder_name/2019-01-30-10-05-54.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reports/output_folder_name/2019-01-30-10-06-56.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reports/output_folder_name/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_suite_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_suite_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_suite_demo2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_suite_demo3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_suite_demo4.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_suite_demo4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilities/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilities/custom_logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/custom_logger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilities/test_status.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/test_status.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/giadinh_auto$Unittests_in_home_test_py.coverage" NAME="Unittests in home_test.py Coverage Results" MODIFIED="1548815199591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/home" />
+    <SUITE FILE_PATH="coverage/giadinh_auto$main.coverage" NAME="main Coverage Results" MODIFIED="1548126717820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utilities/db" />
+    <SUITE FILE_PATH="coverage/giadinh_auto$get_data.coverage" NAME="get_data Coverage Results" MODIFIED="1548651953994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db" />
+    <SUITE FILE_PATH="coverage/giadinh_auto$test_suite_demo.coverage" NAME="test_suite_demo Coverage Results" MODIFIED="1548832695824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/giadinh_auto$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1548837308372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/giadinh_auto$Unittests_for_banner_phai_test_BannerPhaiTest.coverage" NAME="Unittests for banner_phai_test.BannerPhaiTest Coverage Results" MODIFIED="1550110928321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/home" />
+    <SUITE FILE_PATH="coverage/giadinh_auto$sample.coverage" NAME="sample Coverage Results" MODIFIED="1548822087802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../lam/giadinh_auto/venv/Lib/site-packages/BeautifulReport/sample" />
+    <SUITE FILE_PATH="coverage/giadinh_auto$test_suite_demo2.coverage" NAME="test_suite_demo2 Coverage Results" MODIFIED="1548813862311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/giadinh_auto$testsuite.coverage" NAME="testsuite Coverage Results" MODIFIED="1547179578752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/giadinh_auto$test_suite_demo4.coverage" NAME="test_suite_demo4 Coverage Results" MODIFIED="1550111009452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/giadinh_auto$Unittests_for_home_test_HomeTests.coverage" NAME="Unittests for home_test.HomeTests Coverage Results" MODIFIED="1548820187658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/home" />
+    <SUITE FILE_PATH="coverage/giadinh_auto$test_suite_demo3.coverage" NAME="test_suite_demo3 Coverage Results" MODIFIED="1548836655758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/giadinh_auto$Unittests_for_searchbar_test_SearchBarTest_test_hot_line.coverage" NAME="Unittests for searchbar_test.SearchBarTest.test_hot_line Coverage Results" MODIFIED="1548126660059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/home" />
+    <SUITE FILE_PATH="coverage/giadinh_auto$Unittests_for_searchbar_test_SearchBarTest_test_search_btn.coverage" NAME="Unittests for searchbar_test.SearchBarTest.test_search_btn Coverage Results" MODIFIED="1548820166627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/home" />
+    <SUITE FILE_PATH="coverage/giadinh_auto$BeautifulReport.coverage" NAME="BeautifulReport Coverage Results" MODIFIED="1548822242906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../lam/giadinh_auto/venv/Lib/site-packages/BeautifulReport" />
+    <SUITE FILE_PATH="coverage/giadinh_auto$Unittests_in_searchbar_test_py.coverage" NAME="Unittests in searchbar_test.py Coverage Results" MODIFIED="1548831742736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/home" />
+    <SUITE FILE_PATH="coverage/giadinh_auto$Unittests_for_boxtinnong_test_BoxTinNongTest.coverage" NAME="Unittests for boxtinnong_test.BoxTinNongTest Coverage Results" MODIFIED="1548995267306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/boxes" />
+    <SUITE FILE_PATH="coverage/giadinh_auto$Unittests_for_backtotop_test_NavBarTest.coverage" NAME="Unittests for backtotop_test.NavBarTest Coverage Results" MODIFIED="1550110806685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/home" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/home.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="142" column="62" selection-start-line="142" selection-start-column="62" selection-end-line="142" selection-end-column="62" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/utilities/logs/info.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-6191">
+              <caret line="20" column="74" selection-start-line="20" selection-start-column="74" selection-end-line="20" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/home_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="850">
+              <caret line="50" column="56" selection-start-line="50" selection-start-column="56" selection-end-line="50" selection-end-column="56" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/config_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="89" selection-start-line="7" selection-start-column="89" selection-end-line="7" selection-end-column="89" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>test.p</find>
+      <find>sc</find>
+      <find>@@</find>
+      <find>Exception Occured</find>
+      <find>[</find>
+      <find>debug</find>
+      <find>send</find>
+      <find>Box mo</find>
+      <find>@@@@</find>
+      <find>8_</find>
+      <find>@@@</find>
+      <find>FAIl</find>
+      <find>FAi</find>
+      <find>FAil</find>
+      <find>Fai</find>
+      <find>FAIL</find>
+      <find>sapo</find>
+      <find>scr</find>
+      <find>Fa</find>
+      <find>TinNong</find>
+      <find>có</find>
+      <find>tin</find>
+      <find>screen</find>
+      <find>bleble</find>
+      <find>PASS</find>
+      <find>VERIFICATION SUCCESSFUL</find>
+      <find>tool</find>
+      <find>scre</find>
+      <find>Fail</find>
+      <find>Tool</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pages/cates/trang_video.py" />
+        <option value="$PROJECT_DIR$/automation.log" />
+        <option value="$PROJECT_DIR$/pages/boxes/boxes_cha_con/box4_xem_doc_nghe.py" />
+        <option value="$PROJECT_DIR$/pages/boxes/boxes_cha_con/box5_tranh_cai.py" />
+        <option value="$PROJECT_DIR$/pages/boxes/boxes_cha_con/box6_bac_si_cua_ban.py" />
+        <option value="$PROJECT_DIR$/pages/boxes/boxes_cha_con/box7_vong_tay_nhan_ai.py" />
+        <option value="$PROJECT_DIR$/pages/boxes/boxes_cha_con/box8_hi_tech.py" />
+        <option value="$PROJECT_DIR$/pages/boxes/boxes_cha_con/box_o.py" />
+        <option value="$PROJECT_DIR$/pages/boxes/boxes_cha_con/box_dep.py" />
+        <option value="$PROJECT_DIR$/pages/boxes/boxes_cha_con/box_an.py" />
+        <option value="$PROJECT_DIR$/tests/boxes/boxvideo_test.py" />
+        <option value="$PROJECT_DIR$/tests/boxes/boxes_chuyen_muc_con/boxdanso_test.py" />
+        <option value="$PROJECT_DIR$/tests/boxes/boxes_chuyen_muc_con/boxkinangsong_test.py" />
+        <option value="$PROJECT_DIR$/tests/boxes/boxes_chuyen_muc_con/boxyte_test.py" />
+        <option value="$PROJECT_DIR$/pages/boxes/boxes_chuyen_muc_con/box_danso.py" />
+        <option value="$PROJECT_DIR$/pages/boxes/boxes_chuyen_muc_con/box_kinangsong.py" />
+        <option value="$PROJECT_DIR$/pages/boxes/boxes_chuyen_muc_con/box_yte.py" />
+        <option value="$PROJECT_DIR$/pages/boxes/boxes_cha_con/box2_gia_dinh.py" />
+        <option value="$PROJECT_DIR$/pages/boxes/boxes_cha_con/box3_song_khoe.py" />
+        <option value="$PROJECT_DIR$/pages/boxes/boxes_cha_con/base.py" />
+        <option value="$PROJECT_DIR$/pages/boxes/boxes_cha_con/box4_giai_tri.py" />
+        <option value="$PROJECT_DIR$/pages/boxes/boxes_cha_con/box5_phapluat.py" />
+        <option value="$PROJECT_DIR$/pages/boxes/boxes_cha_con/box6_giao_duc.py" />
+        <option value="$PROJECT_DIR$/pages/boxes/boxes_cha_con/box8_bon_phuong.py" />
+        <option value="$PROJECT_DIR$/pages/boxes/boxes_cha_con/box2_tam_su.py" />
+        <option value="$PROJECT_DIR$/pages/boxes/boxes_cha_con/box3_phong_the.py" />
+        <option value="$PROJECT_DIR$/pages/boxes/box_doc_nhieu_nhat.py" />
+        <option value="$PROJECT_DIR$/tests/boxes/box_tinnoibat_test.py" />
+        <option value="$PROJECT_DIR$/tests/boxes/boxdungbolo_test.py" />
+        <option value="$PROJECT_DIR$/pages/boxes/box_tin_noi_bat.py" />
+        <option value="$PROJECT_DIR$/tests/test_suite_demo2.py" />
+        <option value="$PROJECT_DIR$/pages/boxes/box_tin_nong.py" />
+        <option value="$PROJECT_DIR$/utilities/logs/info.log.10" />
+        <option value="$PROJECT_DIR$/pages/cates/trang_chuyen_muc/base.py" />
+        <option value="$PROJECT_DIR$/pages/cates/trang_moi_nhat.py" />
+        <option value="$PROJECT_DIR$/tests/cates/trang_detail_tin_test.py" />
+        <option value="$PROJECT_DIR$/pages/cates/trang_detail_tin.py" />
+        <option value="$PROJECT_DIR$/tests/test_suite_demo.py" />
+        <option value="$PROJECT_DIR$/base/browser_factory.py" />
+        <option value="$PROJECT_DIR$/utilities/base.py" />
+        <option value="$PROJECT_DIR$/tests/test_suite_demo4.py" />
+        <option value="$PROJECT_DIR$/base/selenium_driver.py" />
+        <option value="$PROJECT_DIR$/logs/automation.log" />
+        <option value="$PROJECT_DIR$/config.py" />
+        <option value="$PROJECT_DIR$/utilities/test_status.py" />
+        <option value="$PROJECT_DIR$/utilities/custom_logger.py" />
+        <option value="$PROJECT_DIR$/utilities/logs/info.log.1" />
+        <option value="$PROJECT_DIR$/tests/home_test.py" />
+        <option value="$PROJECT_DIR$/utilities/logs/info.log" />
+        <option value="$PROJECT_DIR$/tests/config_test.py" />
+        <option value="$PROJECT_DIR$/pages/home.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1554" />
+    <option name="height" value="916" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tool_quet_domain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tool_quet_domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tool_quet_domain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tool_quet_domain" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tool_quet_domain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tool_quet_domain" type="462c0819:PsiDirectoryNode" />
+              <item name="utilities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tool_quet_domain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tool_quet_domain" type="462c0819:PsiDirectoryNode" />
+              <item name="utilities" type="462c0819:PsiDirectoryNode" />
+              <item name="logs" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\lam\giadinh_auto\tests\boxes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test_suite_demo4">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="giadinh_auto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_suite_demo4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="giadinh_auto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/test_suite_demo4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for backtotop_test.NavBarTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="giadinh_auto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/home" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;backtotop_test.NavBarTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for banner_phai_test.BannerPhaiTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="giadinh_auto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/home" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;banner_phai_test.BannerPhaiTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for tests.boxes.boxtinnong_test.HomeBoxTinNongTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="giadinh_auto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/boxes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.boxes.boxtinnong_test.HomeBoxTinNongTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_suite_demo4" />
+        <item itemvalue="Python tests.Unittests for banner_phai_test.BannerPhaiTest" />
+        <item itemvalue="Python tests.Unittests for backtotop_test.NavBarTest" />
+        <item itemvalue="Python tests.Unittests for tests.boxes.boxtinnong_test.HomeBoxTinNongTest" />
+        <item itemvalue="Python.__init__" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9016e9f-92e0-457c-b48c-24cd479bfa70" name="Default Changelist" comment="" />
+      <created>1547023757672</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547023757672</updated>
+      <workItem from="1547023761189" duration="16500000" />
+      <workItem from="1547095003671" duration="53658000" />
+      <workItem from="1547523084983" duration="127022000" />
+      <workItem from="1548305167961" duration="74591000" />
+      <workItem from="1548755671637" duration="41036000" />
+      <workItem from="1550022796981" duration="182185000" />
+      <workItem from="1551060056496" duration="76815000" />
+      <workItem from="1551319533281" duration="207671000" />
+      <workItem from="1552096383315" duration="4747000" />
+      <workItem from="1552101766962" duration="19528000" />
+      <workItem from="1552357856755" duration="94700000" />
+      <workItem from="1552874087377" duration="33678000" />
+      <workItem from="1552986572352" duration="5059000" />
+      <workItem from="1553046897449" duration="39157000" />
+      <workItem from="1553305769381" duration="4660000" />
+      <workItem from="1553478773325" duration="30936000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_searchbar_test_SearchBarTest_test_hot_line - 2019.01.11 at 11h 16m 17s.xml">
+      <configuration name="Unittests for searchbar_test.SearchBarTest.test_hot_line" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_searchbar_test_SearchBarTest_test_hot_line - 2019.01.22 at 10h 11m 12s.xml">
+      <configuration name="Unittests for searchbar_test.SearchBarTest.test_hot_line" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_home_test_py - 2019.01.30 at 09h 26m 47s.xml">
+      <configuration name="Unittests in home_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_searchbar_test_SearchBarTest_test_search_btn - 2019.01.30 at 10h 49m 33s.xml">
+      <configuration name="Unittests for searchbar_test.SearchBarTest.test_search_btn" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_home_test_HomeTests - 2019.01.30 at 10h 49m 55s.xml">
+      <configuration name="Unittests for home_test.HomeTests" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_searchbar_test_py - 2019.01.30 at 14h 02m 47s.xml">
+      <configuration name="Unittests in searchbar_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_boxtinnong_test_BoxTinNongTest - 2019.02.01 at 11h 27m 48s.xml">
+      <configuration name="Unittests for boxtinnong_test.BoxTinNongTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_backtotop_test_NavBarTest - 2019.02.14 at 09h 20m 11s.xml">
+      <configuration name="Unittests for backtotop_test.NavBarTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_banner_phai_test_BannerPhaiTest - 2019.02.14 at 09h 20m 34s.xml">
+      <configuration name="Unittests for banner_phai_test.BannerPhaiTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_banner_phai_test_BannerPhaiTest - 2019.02.14 at 09h 22m 08s.xml">
+      <configuration name="Unittests for banner_phai_test.BannerPhaiTest" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1011943000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19087404" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32916668" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32916668" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32916668" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5025707" side_tool="true" weight="0.29444444" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.4974293" visible="true" weight="0.2986111" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32916668" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tests/cates/trang_detail_tin_test.py" />
+    <entry file="file://$PROJECT_DIR$/pages/cates/trang_detail_tin.py" />
+    <entry file="file://$PROJECT_DIR$/tests/conftest.py" />
+    <entry file="file://$PROJECT_DIR$/base/screenshots/trang__genk.vn_bi_loi_domain.1552989944059.png" />
+    <entry file="file://$PROJECT_DIR$/base/screenshots/trang__genk.vn_bi_loi_domain.1552990747564.png" />
+    <entry file="file://$PROJECT_DIR$/base/browser_factory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-408">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="69" column="16" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/base_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/screenshots/trang__this_page_is_not_mobile-friendly._khong_than_thien_voi_mobile.1553072342711.png" />
+    <entry file="file://$PROJECT_DIR$/tests/test_suite_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="14" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/screenshots/trang__this_page_is_not_mobile-friendly._khong_than_thien_voi_mobile.1553072854571.png" />
+    <entry file="file://$PROJECT_DIR$/base/screenshots/trang__autopro.com.vn_khong_than_thien_voi_mobile.1553073670322.png" />
+    <entry file="file://$PROJECT_DIR$/base/screenshots/trang__autopro.com.vn_mitsubishi-trinh-lang-mini-xpander-co-ten-ek-x-20190319163118585.chn_khong_than_thien_voi_mobile.1553073757174.png" />
+    <entry file="file://$PROJECT_DIR$/base/screenshots/trang__autopro.com.vn_tin-tuc.chn_khong_than_thien_voi_mobile.1553073705439.png" />
+    <entry file="file://$PROJECT_DIR$/tests/test_suite_demo4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="36" column="18" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/logs/info.log.3" />
+    <entry file="file://$PROJECT_DIR$/logs/automation.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17275">
+          <caret line="421" column="46" selection-start-line="421" selection-start-column="46" selection-end-line="421" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/screenshots/trang__congnghe.tuoitre.vn_khong_than_thien_voi_mobile.1553248458711.png" />
+    <entry file="file://$PROJECT_DIR$/base/screenshots/trang__congnghe.tuoitre.vn_nhip-song-so.htm_khong_than_thien_voi_mobile.1553140667452.png" />
+    <entry file="file://$PROJECT_DIR$/base/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/screenshots/trang__vietnammoi.vn_nhung-noi-buon-vi-vang-tieng-lon-keu-va-co-ngoi-dan-bi-chon-xuong-ho-20190319123144433.htm_khong_than_thien_voi_mobile.1553165562570.png" />
+    <entry file="file://$PROJECT_DIR$/base/selenium_driver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/logs/info.log.6">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../giadinh_auto/venv/Lib/site-packages/ddt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="189" column="28" selection-start-line="189" selection-start-column="28" selection-end-line="189" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/logs/info.log.8">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1785" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/inspect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-962">
+          <caret line="679" column="4" selection-start-line="679" selection-start-column="4" selection-end-line="679" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1356108471/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3665">
+          <caret line="511" column="4" selection-start-line="511" selection-start-column="4" selection-end-line="511" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/logging/handlers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="121" column="85" selection-start-line="121" selection-start-column="85" selection-end-line="121" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/test_status.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="34" column="50" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/custom_logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-342">
+          <caret line="53" selection-start-line="53" selection-end-line="92" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/screenshots/trang__vietnambiz.vn_chinh-thuc-tang-gia-dien-836-tu-hom-nay-20-3-2019032011432987.htm_khong_than_thien_voi_mobile.1553569033016.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/screenshots/trang__tv.tuoitre.vn_dac-sac.htm_khong_than_thien_voi_mobile.1553571825289.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/screenshots/trang__congnghe.tuoitre.vn_nhip-song-so.htm_khong_than_thien_voi_mobile.1553232709339.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/screenshots/trang__autopro.com.vn_khong_than_thien_voi_mobile.1553076055768.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/screenshots/trang__dulich.tuoitre.vn_khong_than_thien_voi_mobile.1553571562086.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/screenshots/trang__phunu.nld.com.vn_khong_than_thien_voi_mobile.1553507595922.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/screenshots/trang__thitruong.nld.com.vn_khong_than_thien_voi_mobile.1553249095671.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/screenshots/trang__vietnambiz.vn_khong_than_thien_voi_mobile.1553313805405.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/screenshots/trang__vietnammoi.vn_nhung-noi-buon-vi-vang-tieng-lon-keu-va-co-ngoi-dan-bi-chon-xuong-ho-20190319123144433.htm_khong_than_thien_voi_mobile.1553313741235.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/logs/info.log.9">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-561" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/screenshots/trang__vietnambiz.vn_chinh-thuc-tang-gia-dien-836-tu-hom-nay-20-3-2019032011432987.htm_khong_than_thien_voi_mobile.1553587625596.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/screenshots/trang__soha.vn_neu-be-gai-9-tuoi-bi-xam-hai-co-gai-bi-cuong-hon-la-con-cac-ong-ay-20190320102159289.htm_khong_than_thien_voi_mobile.1553137245511.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/logs/info.log.1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5576">
+          <caret line="392" column="41" lean-forward="true" selection-start-line="392" selection-start-column="41" selection-end-line="392" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/screenshots/trang__vietnambiz.vn_thoi-suhtm_khong_than_thien_voi_mobile.1553673584069.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/logs/info.log.10">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="69" lean-forward="true" selection-start-line="16" selection-start-column="69" selection-end-line="16" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/home_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" column="56" selection-start-line="50" selection-start-column="56" selection-end-line="50" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/config_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="89" selection-start-line="7" selection-start-column="89" selection-end-line="7" selection-end-column="89" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/home.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="142" column="62" selection-start-line="142" selection-start-column="62" selection-end-line="142" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/logs/info.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6191">
+          <caret line="20" column="74" selection-start-line="20" selection-start-column="74" selection-end-line="20" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

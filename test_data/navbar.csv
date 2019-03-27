@@ -1,0 +1,11 @@
+locator,type,url
+http://giadinh.net.vn/tin-trong-ngay.htm,//*[@id='cat9999']/a,xpath
+http://giadinh.net.vn/xa-hoi.htm,//*[@id='cat1000']/a,xpath
+http://giadinh.net.vn/gia-dinh.htm,//*[@id='cat1001']/a,xpath
+http://giadinh.net.vn/song-khoe.htm,//*[@id='cat1089']/a,xpath
+http://giadinh.net.vn/giai-tri.htm,//*[@id='cat1019']/a,xpath
+http://giadinh.net.vn/phap-luat.htm,//*[@id='cat1005']/a,xpath
+http://giadinh.net.vn/an.htm,//*[@id='cat12166']/a,xpath
+http://giadinh.net.vn/vong-tay-nhan-ai.htm,//*[@id='cat1204']/a,xpath
+http://giadinh.net.vn/thi-truong.htm,//*[@id='cat1107']/a,xpath
+http://giadinh.net.vn/bon-phuong.htm,//*[@id='cat1221']/a,xpath
