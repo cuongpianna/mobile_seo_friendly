@@ -11,7 +11,7 @@ html2text==2018.1.9
 idna==2.8
 inscriptis==0.0.3.7
 Jinja2==2.9.5
-lxml==4.3.0
+lxml==4.6.2
 MarkupSafe==1.1.0
 more-itertools==5.0.0
 Pillow==5.4.1
